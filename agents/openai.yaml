@@ -1,0 +1,4 @@
+interface:
+  display_name: "GC AI 搜索"
+  short_description: "通过 GCID 调用 GC AI 搜索并实时返回进度、回答和来源"
+  default_prompt: "使用 $gc-ai-search 实时检索我的问题，并返回进度、回答和参考链接。"
